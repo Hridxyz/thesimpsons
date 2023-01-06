@@ -177,7 +177,7 @@ section {
 .book-form {
   width: 80%;
   margin: 1rem auto;
-  margin-top: -5rem;
+  margin-top: 10rem;
   background: #222;
   border-radius: 1rem;
   -webkit-box-shadow: 0 0.5rem 1rem rgba(17, 17, 17, 0.3);
