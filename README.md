@@ -1,6 +1,6 @@
 # The Jetsons: Travel the Universe
 
-![The Jetsons Logo](spaceship icon.png)
+![The Jetsons Logo](spaceshipicon.png)
 
 ## Table of Contents
 - [About the Project](#about-the-project)
@@ -75,7 +75,7 @@ To start using The Jetsons, follow these steps:
 ![Destination Details](stations.png)
 
 ### Responsive View
-![Half Page View](ss1.png)
+<img src="SS2.png" alt="" width="25%">
 
 ### Certificates
 ![Full Page View](Certificates.png)
