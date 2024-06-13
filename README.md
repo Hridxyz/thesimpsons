@@ -77,7 +77,7 @@ To start using The Jetsons, follow these steps:
 ### Responsive View
 <img src="ss1.png" alt="" width="35%">
 
-### Certificates
+### Certificate
 ![Full Page View](Certificates.png)
 
 ## Contributing
