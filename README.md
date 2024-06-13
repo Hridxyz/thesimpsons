@@ -66,16 +66,19 @@ To start using The Jetsons, follow these steps:
 ## Screenshots
 
 ### Home Page
-![Home Page](path/to/screenshot1.jpeg)
+![Home Page](HOME.png)
 
 ### Booking Interface
-![Booking Interface](path/to/screenshot2.jpeg)
+![Booking Interface](SS2.png)
 
 ### Destination Details
-![Destination Details](path/to/screenshot3.jpeg)
+![Destination Details](stations.png)
 
-### Full Page View
-![Full Page View](path/to/screenshot4.jpeg)
+### Responsive View
+![Full Page View](ss1.png)
+
+### Certificates
+![Full Page View](Certificates.png)
 
 ## Contributing
 
